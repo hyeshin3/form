@@ -1,4 +1,5 @@
 # jQuery Form [![Build Status](https://travis-ci.org/jquery-form/form.svg?branch=master)](https://travis-ci.org/jquery-form/form)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhyeshin3%2Fform.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhyeshin3%2Fform?ref=badge_shield)
 
 ## Overview
 The jQuery Form Plugin allows you to easily and unobtrusively upgrade HTML forms to use AJAX. The main methods, ajaxForm and ajaxSubmit, gather information from the form element to determine how to manage the submit process. Both of these methods support numerous options which allow you to have full control over how the data is submitted.
@@ -259,3 +260,6 @@ This project is dual-licensed under the LGPLv2.1 (or later) or MIT licenses:
 ---
 
 Additional documentation and examples for version 3.51- at: [http://malsup.com/jquery/form/](http://malsup.com/jquery/form/)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhyeshin3%2Fform.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhyeshin3%2Fform?ref=badge_large)
